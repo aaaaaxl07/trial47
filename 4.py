@@ -57,9 +57,9 @@ logo4 = """\33[1;32m
 \33[1;32m-------------------------------------------------------- 
   Owner      :  Alexander Grayson
   Facebook   :  AlexanderGraysonRecovery.IAmLimitless
-  Tool Type  :  RPW Facebook Cloning Tool (Paid)
+  Tool Type  :  RPW Facebook New Account Generator (Paid)
   Network    :  All Network
-  Version    :  3.5
+  Version    :  3.6
 \33[1;32m--------------------------------------------------------"""
 boy = ['Ethan Parker', 'Liam Anderson', 'Mason Taylor', 'Aiden Mitchell', 'Lucas Bennett', 'Oliver Cooper', 'Carter Walker', 'Jackson Brooks', 'Noah Scott', 'Avery Foster', 'William Hayes', 'James Turner', 'Michael Bryant', 'Benjamin Carter', 'Daniel Russell', 'Alexander Parker', 'Matthew Foster', 'Henry Mitchell', 'Samuel Harrison', 'David Brooks', 'Joseph Anderson', 'John Davis', 'Nicholas Wright', 'Andrew Reed', 'Jonathan Stewart', 'Christopher Kelly', 'Gabriel Price', 'Caleb Butler', 'Nathaniel Hughes', 'Anthony Morgan', 'Nicholas Sullivan', 'Christopher Powell', 'Sebastian Price', 'Zachary Murphy', 'Matthew Bennett', 'Dominic Hill', 'William Ward', 'Isaac King', 'Landon Harrison', 'Eli Foster', 'Logan Turner', 'Luke Hayes', 'Owen Mitchell', 'Wyatt Cooper', 'Henry Reid', 'Elijah Anderson', 'William Turner', 'Samuel Bryant', 'Oliver Russell', 'Ethan Parker', 'Liam Anderson', 'Mason Taylor', 'Aiden Mitchell', 'Lucas Bennett', 'Oliver Cooper', 'Carter Walker', 'Jackson Brooks', 'Noah Scott', 'Avery Foster', 'William Hayes', 'James Turner', 'Michael Bryant', 'Benjamin Carter', 'Daniel Russell', 'Alexander Parker', 'Matthew Foster', 'Henry Mitchell', 'Samuel Harrison', 'David Brooks', 'Joseph Anderson', 'John Davis', 'Nicholas Wright', 'Andrew Reed', 'Jonathan Stewart', 'Christopher Kelly', 'Gabriel Price', 'Caleb Butler', 'Nathaniel Hughes', 'Anthony Morgan', 'Nicholas Sullivan', 'Christopher Powell', 'Sebastian Price', 'Zachary Murphy', 'Matthew Bennett', 'Dominic Hill', 'William Ward', 'Isaac King', 'Landon Harrison', 'Eli Foster', 'Logan Turner', 'Luke Hayes', 'Owen Mitchell', 'Wyatt Cooper', 'Henry Reid', 'Elijah Anderson', 'William Turner', 'Samuel Bryant', 'Oliver Russell',
 'Henry Porter', 'Maxwell Gray', 'Theodore Baker', 'Harrison Carter', 'Ezra Foster', 'Nolan Thompson', 'Lincoln Adams', 'Miles Evans', 'Nathaniel Hayes', 'Julian Sullivan', 'Oliver Foster', 'Benjamin Griffin', 'Alexander Fisher', 'Wyatt Richards', 'Oscar Turner', 'Hudson Wright', 'Sebastian Knight', 'Landon Parker', 'Caleb Brooks', 'Eli Stewart', 'Lucas Harrison', 'Mason Reynolds', 'Owen Powell', 'Daniel Morgan', 'James Bennett', 'Matthew Walker', 'Ethan Reed', 'Logan Turner', 'Aiden Murphy', 'Nathaniel Turner', 'William Griffin', 'Samuel Hayes', 'Elijah Foster', 'Christopher Bryant', 'Avery Price', 'David Mitchell', 'Gabriel Evans', 'Jackson Parker', 'Joseph Adams', 'Liam Bennett', 'Michael Richards']
@@ -121,7 +121,7 @@ class create:
             'sec-fetch-site': 'none',
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
-            'user-agent': '[FBAN/FB4A;FBAV/243.0.0.2.174;FBBV/156073738;FBDM/{density=3.0,width=1080,height=1493};FBLC/en_US;FBRV/324.0.0.9.130;FBCR/Tele2 Netherlands;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT2127-43;FBSV/10;FBOP/1;FBCA/arm64-v8a:]',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
             'viewport-width': '980',
         }
         headers1 = {
@@ -138,7 +138,7 @@ class create:
             'sec-fetch-mode': 'navigate',
             'sec-fetch-site': 'none',
             'upgrade-insecure-requests': '1',
-            'user-agent': '[FBAN/FB4A;FBAV/243.0.0.2.174;FBBV/156073738;FBDM/{density=3.0,width=1080,height=1493};FBLC/en_US;FBRV/324.0.0.9.130;FBCR/Tele2 Netherlands;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT2127-43;FBSV/10;FBOP/1;FBCA/arm64-v8a:]',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
         }
         print(' [•] Use airplane mode if no result. ')
         print (56*'-')
